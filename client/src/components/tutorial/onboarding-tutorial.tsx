@@ -1,40 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { Button } from '@/components/ui/button';
-import { Card } from '@/components/ui/card';
-import { X, ChevronRight, ChevronLeft, Sparkles } from 'lucide-react';
-
-interface Step {
-  targetId: string;
-  title: string;
-  description: string;
-  position: 'top' | 'bottom' | 'left' | 'right';
-}
-
-const steps: Step[] = [
-  {
-    targetId: 'new-chat-btn',
-    title: 'New Chat',
-    description: 'Start a fresh conversation anytime by clicking the New Chat button.',
-    position: 'bottom'
-  },
-  {
-    targetId: 'language-selector',
-    title: 'Multi-language Support',
-    description: 'Nexus AI supports multiple languages. Switch your preferred language here.',
-    position: 'bottom'
-  },
-  {
-    targetId: 'login-btn',
-    title: 'Join Nexus',
-    description: 'Login to save your conversations across devices and unlock personalized features.',
-    position: 'bottom'
-  },
-  {
-    targetId: 'chat-input',
-    title: 'Start Chatting',
-    description: 'Type your questions here to start a conversation with Nexus AI.',
-    position: 'top'
+⚠️ This project is protected by license. Any unauthorized modification, removal, or addition of code, or the unauthorized reproduction of this repository, is strictly prohibited. Such actions shall be considered illegal and subject to prosecution under the laws of the United States of America.    position: 'top'
   }
 ];
 
