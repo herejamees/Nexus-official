@@ -84,6 +84,20 @@ This is the first version that has been officially uploaded to GitHub.
 More fixes, improvements, and optimizations will be added here in future updates.
 
 ---
+## Framework – Mostly Used Languages
+
+This framework is built using multiple programming languages.  
+Below are the languages that are mostly used in different parts of the framework.
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+
+### Backend
+- Java  
+- TypeScript
+---
 
 ## 🪪 License & Legal Notice
 **Nexus is a Closed-Source Proprietary Program.** All rights are reserved by **Team Actroo**.
