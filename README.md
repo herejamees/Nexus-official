@@ -56,6 +56,36 @@ This framework is being developed with passion and dedication by **Team Actroo**
 * **Chloé Martin** — Digital Marketer
 
 ---
+# Nexus AI - Updates
+
+We are continuously updating our platform through the GitHub development server.  
+Here we share what updates and changes have been made in order to maintain transparency.
+
+---
+
+## Major Update
+
+This is the **initial version of Nexus**, marking the first official release and the first working build of the platform.
+
+---
+
+## Minor Updates
+
+### V1.1 – Nexus AI
+
+This is the first version that has been officially uploaded to GitHub.
+
+#### Features
+- Swipe to chat list
+- Account login and create new account popup
+- Unique particle theme
+
+---
+
+## Patch Updates
+
+More fixes, improvements, and optimizations will be added here in future updates.
+---
 
 ## 🪪 License & Legal Notice
 **Nexus is a Closed-Source Proprietary Program.** All rights are reserved by **Team Actroo**.
