@@ -64,10 +64,9 @@ Here we share what updates and changes have been made in order to maintain trans
 ---
 
 ## Major Update
-
+# v1.1
 This is the **initial version of Nexus**, marking the first official release and the first working build of the platform.
 
----
 
 ## Minor Updates
 
@@ -80,11 +79,10 @@ This is the first version that has been officially uploaded to GitHub.
 - Account login and create new account popup
 - Unique particle theme
 
----
 
 ## Patch Updates
-
 More fixes, improvements, and optimizations will be added here in future updates.
+
 ---
 
 ## 🪪 License & Legal Notice
