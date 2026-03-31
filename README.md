@@ -80,7 +80,7 @@ This is the first version that has been officially uploaded to GitHub.
 - Unique particle theme
 
 
-## Patch Updates
+#### Patch Updates
 More fixes, improvements, and optimizations will be added here in future updates.
 
 ---
